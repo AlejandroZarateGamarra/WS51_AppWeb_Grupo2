@@ -31,7 +31,7 @@
 
 [Nombre del Integrante 3]
 
-[Nombre del Integrante 4]
+Jeremi Jose Antonio Fretel
 
 Luis Alejandro Zárate Gamarra
 
