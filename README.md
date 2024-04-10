@@ -1,14 +1,5 @@
 
-<style>
-        .justificado {
-            text-align: justify;
-        }
-        .centrado {
-            text-align: center;
-        }
 
-
-</style>
 <div align="center">
 <img src="./imagenes/logos/Logo_UPC.png" width="100" height="100">
 <p></p>
