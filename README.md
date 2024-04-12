@@ -1263,7 +1263,40 @@ Link del Landing Page: https://stxfxno.github.io/MyEvent/myevent.html
 <h3>5.2.1.2 Sprint Backlog 1</h3>
 <P>En este primer Sprint Backlog el grupo se enfoco en realizar la landing page y el diseño del Front de la aplicación web junto con el CRUD de la venta de boletas. Para el registro de cada tarea utilizamos Trello</P>
 <img src="https://github.com/AlejandroZarateGamarra/WS51_AppWeb_Grupo2/assets/112044940/cad12107-8da2-477f-854c-a4acc4d893c7">
-
+<table>
+            <thead>
+                    <tr>
+                    <td>Sprint #:</td>
+                    <td colspan="7">Sprint 1</td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">User Story</td>
+                        <td colspan="6">Work-Item / Task</td>
+                    </tr>
+                    <tr>
+                        <td>ID</td>
+                        <td>Title</td>
+                        <td>ID</td>
+                        <td>Title</td>
+                        <td>Description</td>
+                        <td>Estimation (Hours)</td>
+                        <td>Assigned to</td>
+                        <td>Status (To-Do/In-Process/To-Review/Done)</td>
+                    </tr>
+            </thead>
+            <tbody>
+                    <tr>
+                        <td>..</td>
+                        <td>..</td>
+                        <td>..</td>
+                        <td>..</td>
+                        <td>..</td>
+                        <td>..</td>
+                        <td>..</td>
+                        <td>..</td>
+                    </tr>
+            </tbody>
+</table>
 <h3>5.2.1.3 Development Evidence for Sprint Review.</h3>
 
 <h3>5.2.1.4 Testing Suite Evidence for Sprint Review.</h3>
