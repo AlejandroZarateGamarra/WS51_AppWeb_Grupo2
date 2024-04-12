@@ -1140,8 +1140,8 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 <h1>CAPÍTULO V: PRODUCT IMPLEMENTATION</h1>
 <h2>5.1 Software Configuration Management</h2>
 <h3>5.1.1 Software Development Environment Configuration</h3>
-<p class="justificado">En la siguiente sección se detalla la ruta de acceso de cada uno de los productos de software, facilitando a cualquier miembro del equipo el desarrollo de cada aspecto del trabajo:
-Visual Studio Code: Entorno de desarrollo.</p>
+<p class="justificado">En la siguiente sección se detalla la ruta de acceso de cada uno de los productos de software, facilitando a cualquier miembro del equipo el desarrollo de cada aspecto del trabajo:</p>
+<p>Visual Studio Code: Entorno de desarrollo.</p>
 <img src="./imagenes/logo-visual.png"/>
 <p>HTML5: Lenguaje de marcado para la elaboración de páginas web.</p>
 <img src="./imagenes/logo-html.png"/>
