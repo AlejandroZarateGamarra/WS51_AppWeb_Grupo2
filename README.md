@@ -56,7 +56,7 @@ Luis Alejandro Zárate Gamarra
                 <li></li>
                 <li></li>
                 <li></li>
-                <li></li>Jeremi Jose Antonio Fretel
+                <li>Jeremi Jose Antonio Fretel</li>
                 <li>Luis Alejandro Zárate Gamarra</li>
             </ul>
         </td>
@@ -221,7 +221,7 @@ Luis Alejandro Zárate Gamarra
   <p class="justificado">Estudio la carrera de Ingeniería de Software en la UPC, tengo conocimientos básicos en C++, Python y Java. Soy una persona que le gusta el liderazgo y organización en equipo, coordinación y poder generar un buen entorno. Ayudo a quienes lo necesiten con lo máximo que pueda. De igual forma tengo conocimientos en los que son fundamentos en Ciencia de Datos.</p>
 
   <p><strong>Jeremi Jose Antonio Fretel</strong></p>
-  <img src = "./imagenes/perfil-jeremi" width="200" height="250">
+  <img src = "./imagenes/JeremiJoseA.jpeg" width="250" height="250">
   <p class="justificado">Me llamo Jeremi Jose Antonio Fretel, tengo 19 años y soy un estudiante de la carrera Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas, actualmente curso el 5er ciclo de mi carrera, me considero una persona disciplinada y responsable al realizar mis objetivos. He desarrollado mis trabajos en estos últimos años en c + + y he llevado cursos de HTML, CSS Y PYTHON.</p>
 
   <p><strong>Luis Alejandro Zárate Gamarra</strong></p>
