@@ -29,7 +29,7 @@
 
 [Nombre del Integrante 2]
 
-[Godofredo, Quispe Tipo]
+Godofredo, Quispe Tipo
 
 Jeremi Jose Antonio Fretel
 
