@@ -56,7 +56,7 @@ Luis Alejandro Zárate Gamarra
                 <li></li>
                 <li></li>
                 <li></li>
-                <li></li>
+                <li></li>Jeremi Jose Antonio Fretel
                 <li>Luis Alejandro Zárate Gamarra</li>
             </ul>
         </td>
@@ -80,7 +80,7 @@ Luis Alejandro Zárate Gamarra
                 <li><strong>1</strong></li>
                 <li><strong>2</strong></li>
                 <li><strong>3</strong></li>
-                <li><strong>4</strong></li>
+                <li><strong>Jeremi Jose Antonio Fretel</strong></li>
                 <li><strong>Luis Alejandro Zárate Gamarra</strong>
                   <p>
                     <strong>TB1</strong>
@@ -220,9 +220,9 @@ Luis Alejandro Zárate Gamarra
   <img src="./imagenes/MichaelCarmelino.jfif" width="200" height="200"> 
   <p class="justificado">Estudio la carrera de Ingeniería de Software en la UPC, tengo conocimientos básicos en C++, Python y Java. Soy una persona que le gusta el liderazgo y organización en equipo, coordinación y poder generar un buen entorno. Ayudo a quienes lo necesiten con lo máximo que pueda. De igual forma tengo conocimientos en los que son fundamentos en Ciencia de Datos.</p>
 
-  <p><strong>Piero Jhoynner Muñoz Salcedo</strong></p>
-  <img src = "./imagenes/PieroMuñoz.JPG" width="200" height="250">
-  <p class="justificado">Soy estudiante de Ingeniería de Software en la UPC. Me considero una persona entusiasta y muy creativa, predispuesta a trabajar en proyectos relacionados con la tecnología. Cuento con conocimiento basico en lenguajes de programación como python y java, además de un buen nivel en HTML y CSS. Me gusta trabajar en equipo y siempre trato de mejorar como persona cada día.</p>
+  <p><strong>Jeremi Jose Antonio Fretel</strong></p>
+  <img src = "./imagenes/perfil-jeremi" width="200" height="250">
+  <p class="justificado">Me llamo Jeremi Jose Antonio Fretel, tengo 19 años y soy un estudiante de la carrera Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas, actualmente curso el 5er ciclo de mi carrera, me considero una persona disciplinada y responsable al realizar mis objetivos. He desarrollado mis trabajos en estos últimos años en c + + y he llevado cursos de HTML, CSS Y PYTHON.</p>
 
   <p><strong>Luis Alejandro Zárate Gamarra</strong></p>
   <img src="./imagenes/AlejandroZarateG.jpeg" width="200" height="230">
