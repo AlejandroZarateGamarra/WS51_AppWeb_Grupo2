@@ -1140,10 +1140,67 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 <h1>CAPÍTULO V: PRODUCT IMPLEMENTATION</h1>
 <h2>5.1 Software Configuration Management</h2>
 <h3>5.1.1 Software Development Environment Configuration</h3>
+<p class="justificado">En la siguiente sección se detalla la ruta de acceso de cada uno de los productos de software, facilitando a cualquier miembro del equipo el desarrollo de cada aspecto del trabajo:
+Visual Studio Code: Entorno de desarrollo.</p>
+<img src="./imagenes/logo-visual.png"/>
+<p>HTML5: Lenguaje de marcado para la elaboración de páginas web.</p>
+<img src="./imagenes/logo-html.png"/>
+<p>CSS3: Tecnología para dar estilo a nuestras páginas web.</p>
+<img src="./imagenes/logo-css.png"/>
+<p>JavaScript: Lenguaje de programación orientado a objetos utilizado para implementar funcionalidades en nuestra Landing Page.</p>
+<img src="./imagenes/logo-js.png"/>
+<p>GitHub: Repositorio colaborativo en la nube.</p>
+<img src="./imagenes/logo-github.png"/>
+<p>GitHub Pages: Plataforma que facilita implementar despliegues sencillos para nuestras páginas web.</p>
+<img src="./imagenes/logo-githubpages.png"/>
+<p>LucidChart: Aplicación web dedicada a la elaboración de Wireflows, User Flows y diagramas de clases.</p>
+<img src="./imagenes/logo-lucidchart.png"/>
+<p>Vertabelo: Plataforma colaborativa para la creación de diagramas de base de datos.</p>
+<img src="./imagenes/logo-vertabelo.png"/>
+<p>Figma: Herramienta colaborativa que permite elaborar wireframes y mockups.</p>
+<img src="./imagenes/logo-figma.png"/>
 <h3>5.1.2 Source Code Management</h3>
-<h3>5.1.3 Source Code Style Guide & Conventions</h3>
-<h3>5.1.4 Software Deployment Configuration</h3>
+<p>
+Link del Landing Page: https://stxfxno.github.io/MyEvent/myevent.html
     
+<p>Trabajamos con tres ramas principales:</p>  
+<p>Main: Es nuestra rama principal donde presentaremos nuestras publicaciones oficiales.
+<p>Dev: Esta rama es nuestro entorno de desarrollo, donde probamos e integramos las funcionalidades trabajadas antes de ser implementadas en la rama principal.</p>    
+<p>Feat: Esta rama se descompone en ramas individuales por cada funcionalidad o feature trabajada, permitiendo un enfoque más específico y organizado en el desarrollo de cada aspecto del proyecto.</p>
+
+<h3>5.1.3 Source Code Style Guide & Conventions</h3>
+<p>HTML:</p>
+<p>En HTML se aplicó la nomenclatura en inglés, por ello en cada DIV su class va estar declarado en este idioma, también podemos observar esto en los inputs y en la clase de span.</p>
+<p>div class="search">/div</p>
+<img src="./imagenes/html-img1.png"/>
+<p>div class="destination__container">/div</p>
+<img src="./imagenes/html-image2.png"/>
+<p>CSS:</p>
+<p>En CSS se mantuvo el mismo trabajo de como se realizó en el HTML.</p>  
+<img src="./imagenes/css-img1.png"/>
+<img src="./imagenes/css-img2.png"/>
+<p>JS:</p>
+<p>Con respecto al desarrollo del JS las variables usadas también se aplico la nomenclatura en inglés:</p>
+<img src="./imagenes/js-img1.png"/>
+<p>Con la primera función creada en JS de const showHideIcons se espera que cada vez que fuera a la izquierda o derecha se ocultara el icono de navegación:</p>
+<p>Icono de la izquierda oculto:</p>
+<img src="./imagenes/js-ejemplo1.png"/>
+<p>Icono de la derecha oculto:</p>
+<img src="./imagenes/js-ejemplo2.png"/>
+<p>Con respecto a la segunda función, nos da la posibilidad de navegar en el carrusel de arrastrando las imágenes de manera horizontal, ya sea para la derecha o izquierda.</p>
+<img src="./imagenes/js-ejemplo3.png"/>
+<h3>5.1.4 Software Deployment Configuration</h3>
+<p class="justificado">Primero: Subimos todos los archivos necesarios para que github.pages funcione correctamente, entre ellos podemos observar el index.html, styles.css y las demás carpetas que están en formato html.</p>
+<img src="./imagenes/paso1.png"/>
+<p>Segundo: Recordemos que para funcione la página correctamente la implementación de nuestro landing page debe de tener la siguiente nomenclatura:</p>  
+<p>Nombre del proyecto.github.io en este caso se uso el nombre de stxfxno para el nombre del proyecto.</p>
+<img src="./imagenes/paso2.png"/>
+<p>Tercero: Verificamos que la pagina se haya subido de manera correcta a GitHub Pages , por ello entramos a settings y vamos al apartado de page. </p>
+<img src="./imagenes/paso3-parte1.png"/>
+<p>Una vez ya en Pages, asegurarnos que en Branch este seleccionado el de main y luego darle en save, esperamos unos minutos para que cargue la página.</p>
+<img src="./imagenes/paso3-parte2.png"/>
+<p>Luego de esperar cierto tiempo, esperamos a que nuestra página este subida a GitHub Pages, si sale para visitar nuestro sitio web es porque lo hicimos correctamente.</p>
+<img src="./imagenes/paso3-parte3.png"/>
 <h2>5.2 Product Implementation & Deployment</h2>
 <h3>5.2.1.1 Sprint Backlog 1</h3>
 <h3>5.2.1.2 User Interface & Execution</h3>
