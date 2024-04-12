@@ -1203,5 +1203,61 @@ Link del Landing Page: https://stxfxno.github.io/MyEvent/myevent.html
 <img src="./imagenes/paso3-parte3.png"/>
 <h2>5.2 Product Implementation & Deployment</h2>
 <h3>5.2.1.1 Sprint Backlog 1</h3>
+ <table>
+            <thead>
+                <tr>
+                    <td>Sprint #</td>
+                    <td>Sprint 1</td>
+                </tr>
+                <tr>
+                    <td colspan="2">Sprint Planning Background</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Date</td>
+                    <td>10/04/2024</td>
+                </tr>
+                <tr>
+                    <td>Time</td>
+                    <td>00:00 am</td>
+                </tr>
+                <tr>
+                    <td>Location</td>
+                    <td>Google Meet</td>
+                </tr>
+                <tr>
+                    <td>Prepared By</td>
+                    <td>Godofredo Quispe Tipo</td>
+                </tr>
+                <tr>
+                    <td>Attendees (to planning meeting)</td>
+                    <td>/ / Quispe Tipo, Godofredo /</td>
+                </tr>
+                <tr>
+                    <td>Sprint n – 1 Review Summary</td>
+                    <td>Debido a que es el primer sprint, no hay reviews de un sprint anterior.</td>
+                </tr>
+                <tr>
+                    <td>Sprint n – 1 Retrospective Summary</td>
+                    <td>Siendo el primer sprint, se mencionará la expectativa de los miembros del equipo: Terminar las actividades antes de la crítica. </td>
+                </tr>
+                <tr>
+                    <td colspan="2">Sprint Goal & User Stories</td>
+                </tr>
+                <tr>
+                    <td>Sprint 1 Goal</td>
+                    <td>Diseñar e implementar una landing page, realizar el CRUD de adquisicion de boletos u entradas.</td>
+                </tr>
+                <tr>
+                    <td>Sprint 1 Velocity</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Sum of Story Points</td>
+                    <td>13</td>
+                </tr>
+            </tbody>
+        </table>
 <h3>5.2.1.2 User Interface & Execution</h3>
 <h3>5.2.1.3 Team Collaboration Insights</h3>
