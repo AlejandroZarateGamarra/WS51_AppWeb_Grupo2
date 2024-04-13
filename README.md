@@ -1128,11 +1128,65 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 
 <h2>4.7 Software Object-Oriented Design</h2>
 <h3>4.7.1 Class Diagrams</h3>
+<img src="./imagenes/DiagramaClases.png"/>
 <h3>4.7.2 Class Dictionary</h3>
+
+<td><strong>Usuario</strong></td>
+<p>Representa a las personas que interactuan con la aplicacion.</p>
+<p>Los usuarios poseen:</p>
+<ul>
+    <li>Nombre</li>
+    <li>Apellido</li>
+    <li>Dirección</li>
+    <li>Correo electronico</li>
+    <li>Telefono</li>
+    <li>Contraseña</li>
+    <li>Fecha de creacion</li>
+    <li>Fecha de suspension</li>
+</ul>
+
+<td><strong>Cliente</strong></td>
+<p>Usuario que solo puede comprar y ver los eventos disponibles en el aplicativo, tiene un metodo de pago para pagar sus boletos/entradas</p>
+
+<td><strong>Organizador</strong></td>
+<p>Usuario que solo puede ofertar y administrar eventos en el aplicativo, esta ligado a una empresa.</p>
+
+<td><strong>Boleto</strong></td>
+<p>Posee toda la informacion de compra como el precio y datos del evento, usuario y categoria de boleto.</p>
+
+<td><strong>Categoria</strong></td>
+<p>Se usa para clasificar los boletos de un evento, ya se por ubicacion, calidad u otro factor. La categoria afecta el precio del boleto.</p>
+
+<td><strong>Evento</strong></td>
+<p>Los eventos pueden ser conciertos, obras de teatro, etc.</p>
+<p>Los eventos poseen:</p>
+<ul>
+    <li>Un nombre</li>
+    <li>Descripcion que tiene la informacion del evento</li>
+    <li>Periodo de tiempo de inicio y fin</li>
+    <li>Una sede donde se da a cabo el evento</li>
+    <li>Un organizador que es el encargado principal del evento</li>
+    <li>Un total de boletos/entradas</li>
+</ul>
+
+<td><strong>Precio</strong></td>
+<p>El precio cambia segun el evento y sus categorias, toda esta informacion es registrada por el organizador.</p>
+
+<td><strong>Lugar</strong></td>
+<p>Es una ubicación fisica donde reside un local.</p>
+
+<td><strong>RUC</strong></td>
+<p>Es el padrón que contiene los datos de identificación de las actividades económicas y demás información relevante de los sujetos inscritos.</p>
+
+<td><strong>Sede</strong></td>
+<p>Es el lugar donde se va a dar a cabo el evento, tiene un numero de asientos limitado.</p>
+
+<td><strong>Empresa</strong></td>
+<p>Es el ente que financia el evento y tiene un organizador que los representa en el evento./>
 
 <h2>4.8 Database Design</h2>
 <h3>4.8.1 Database Diagram</h3>
-<img src="./imagenes/DisenoBaseDatos.png"/>
+<img src="./imagenes/DiagramaBaseDatos.png"/>
     
 <h1>CAPÍTULO V: PRODUCT IMPLEMENTATION</h1>
 <h2>5.1 Software Configuration Management</h2>
