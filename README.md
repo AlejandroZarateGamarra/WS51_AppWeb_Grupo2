@@ -216,9 +216,6 @@ Luis Alejandro, Zárate Gamarra
   . Siempre dispuesto a trabajar en equipo. Me considero una persona paciente y respetuosa que tiene como objetivo 
   llevar a cabo este proyecto de forma satisfactoria.</p>
 
-  <p><strong>Michael Stefano Carmelino Dueñas</strong></p>
-  <img src="./imagenes/MichaelCarmelino.jfif" width="200" height="200"> 
-  <p class="justificado">Estudio la carrera de Ingeniería de Software en la UPC, tengo conocimientos básicos en C++, Python y Java. Soy una persona que le gusta el liderazgo y organización en equipo, coordinación y poder generar un buen entorno. Ayudo a quienes lo necesiten con lo máximo que pueda. De igual forma tengo conocimientos en los que son fundamentos en Ciencia de Datos.</p>
 
   <p><strong>Jeremi Jose Antonio Fretel</strong></p>
   <img src = "./imagenes/JeremiJoseA.jpeg" width="250" height="250">
