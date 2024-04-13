@@ -11,9 +11,9 @@
 
 **Desarrollo de Aplicaciones Open Source**
 
-**Sección:** WS52
+**Sección:** WS51
 
-**Profesor:** Elio Jefferrson Navarrete Vilca
+**Profesor:** Hugo Allan Mori Paiva
 
 ---
 
