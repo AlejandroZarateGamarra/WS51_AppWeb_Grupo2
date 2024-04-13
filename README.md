@@ -1405,8 +1405,18 @@ Link del Landing Page: https://stxfxno.github.io/MyEvent/myevent.html
     </tbody>
 </table>
 <h3>5.2.1.5 Execution Evidence for Sprint Review.</h3>
-<p> Registro de usuario</p>
+Registro de usuario:
 <img src=https://github.com/AlejandroZarateGamarra/WS51_AppWeb_Grupo2/assets/112044940/9a4fbf95-c832-4e19-a6df-9a0c013722e8>
+Ingreso de usuario:
+<img src=https://github.com/AlejandroZarateGamarra/WS51_AppWeb_Grupo2/assets/112044940/da88db46-8844-4c7c-b92b-4e7dcda6371e>
+Ingreso de fecha de publicacion del evento:
+<img src=https://github.com/AlejandroZarateGamarra/WS51_AppWeb_Grupo2/assets/112044940/0ccf3c98-e90d-4dbc-9167-7f0ec1626e00>
+Añadiendo evento:
+<img src=https://github.com/AlejandroZarateGamarra/WS51_AppWeb_Grupo2/assets/112044940/8185c700-0e34-43ec-9905-9f0765532e80>
+Descripcion del Evento:
+<img src=https://github.com/AlejandroZarateGamarra/WS51_AppWeb_Grupo2/assets/112044940/ad5b917f-4805-4f87-a254-c9088fe44ee8>
+Registro de Evento Confirmado:
+<img src=https://github.com/AlejandroZarateGamarra/WS51_AppWeb_Grupo2/assets/112044940/b09fc6ee-54e3-4aa6-aae4-59b89f049ff1>
 
 <h3>5.2.1.6 Services Documentation Evidence for Sprint Review.</h3>
 <p>Para este primer sprint no fue contemplada la evidencia de documentacion de los servicios.</p>
