@@ -1405,6 +1405,9 @@ Link del Landing Page: https://stxfxno.github.io/MyEvent/myevent.html
     </tbody>
 </table>
 <h3>5.2.1.5 Execution Evidence for Sprint Review.</h3>
+<p> Registro de usuario</p>
+<img src=https://github.com/AlejandroZarateGamarra/WS51_AppWeb_Grupo2/assets/112044940/9a4fbf95-c832-4e19-a6df-9a0c013722e8>
+
 <h3>5.2.1.6 Services Documentation Evidence for Sprint Review.</h3>
 <p>Para este primer sprint no fue contemplada la evidencia de documentacion de los servicios.</p>
 <h3>5.2.1.7 Software Deployment Evidence for Sprint Review.</h3>
