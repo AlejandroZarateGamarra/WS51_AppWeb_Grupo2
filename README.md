@@ -80,6 +80,16 @@ Luis Alejandro, Zárate Gamarra
                 <li><strong>1</strong></li>
                 <li><strong>2</strong></li>
                 <li><strong>Luis Mario Gonzales Anaya</strong></li>
+                <p>
+                    <strong>TB1</strong>
+                    <p>Desarrollo e implementación:</p>
+                    <p>User Personas</p>
+                    <p>User Task Matrix</p>
+                    <p>Entrevista del segmento clinte</p>
+                    <p>Diagrama de clases</p>
+                    <p>Diccionario de clases</p>
+                    <p>Diagrama de base de datos</p>
+                </p>
                 <li><strong>Jeremi Jose Antonio Fretel</strong></li>
                 <li><strong>Luis Alejandro Zárate Gamarra</strong>
                   <p>
