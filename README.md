@@ -25,8 +25,6 @@
 
 **Relación de Integrantes:**
 
-[Nombre del Integrante 1]
-
 Luis Mario, Gonzales Anaya
 
 Godofredo, Quispe Tipo
