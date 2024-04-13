@@ -55,7 +55,7 @@ Luis Alejandro, Zárate Gamarra
             <ul>
                 <li></li>
                 <li></li>
-                <li></li>
+                <li>Luis Mario Gonzales Anaya</li>
                 <li>Jeremi Jose Antonio Fretel</li>
                 <li>Luis Alejandro Zárate Gamarra</li>
             </ul>
@@ -79,7 +79,7 @@ Luis Alejandro, Zárate Gamarra
             <ul style="list-style-type: none;">
                 <li><strong>1</strong></li>
                 <li><strong>2</strong></li>
-                <li><strong>3</strong></li>
+                <li><strong>Luis Mario Gonzales Anaya</strong></li>
                 <li><strong>Jeremi Jose Antonio Fretel</strong></li>
                 <li><strong>Luis Alejandro Zárate Gamarra</strong>
                   <p>
