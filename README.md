@@ -27,13 +27,13 @@
 
 [Nombre del Integrante 1]
 
-[Nombre del Integrante 2]
+Luis Mario, Gonzales Anaya
 
 Godofredo, Quispe Tipo
 
-Jeremi Jose Antonio Fretel
+Jeremi Jose, Antonio Fretel
 
-Luis Alejandro Zárate Gamarra
+Luis Alejandro, Zárate Gamarra
 
 **Abril - 2024** 
 
