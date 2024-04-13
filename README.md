@@ -1421,4 +1421,8 @@ Registro de Evento Confirmado:
 <h3>5.2.1.6 Services Documentation Evidence for Sprint Review.</h3>
 <p>Para este primer sprint no fue contemplada la evidencia de documentacion de los servicios.</p>
 <h3>5.2.1.7 Software Deployment Evidence for Sprint Review.</h3>
+<img src=https://github.com/AlejandroZarateGamarra/WS51_AppWeb_Grupo2/assets/112044940/1b3fa686-0854-43de-a750-e5e8c0b8171f>
+<img src=https://github.com/AlejandroZarateGamarra/WS51_AppWeb_Grupo2/assets/112044940/cfb530ba-637b-4770-9689-82b60e77ce3b>
+<img src=https://github.com/AlejandroZarateGamarra/WS51_AppWeb_Grupo2/assets/112044940/1ecb7c71-631f-4456-a070-ea9f0de0eba9>
+<img src=https://github.com/AlejandroZarateGamarra/WS51_AppWeb_Grupo2/assets/112044940/a883a101-fe73-4215-9798-7e88ab721427>
 <h3>5.2.1.8 Team Collaboration Insights during Sprint.</h3>
