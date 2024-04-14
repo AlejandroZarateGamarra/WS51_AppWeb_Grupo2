@@ -57,7 +57,7 @@ Luis Alejandro, Zárate Gamarra
                 <li>Luis Alejandro Zárate Gamarra</li>
             </ul>
         </td>
-        <td>Contenido</td>
+        <td>Se formuló una solución para abordar la oportunidad identificada y se procedió a desarrollar los primeros cinco capítulos del proyecto, desde la Introducción hasta la Implementación del Producto, Validación y Despliegue. De esta manera, hemos completado la fase inicial del proyecto según la estructura indicada en este informe.</td>
     </tr>
 </table>
 
@@ -70,8 +70,7 @@ Luis Alejandro, Zárate Gamarra
         <th>Conclusiones</th>
     </tr>
     <tr>
-        <td><strong>Comunica oralmente con efectividad a
-        diferentes rangos de audiencia</strong></td>
+        <td><strong>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</strong></td>
         <td>
             <ul style="list-style-type: none;">
                 <li><strong>Godofredo Quispe Tipo</strong></li>
@@ -96,8 +95,8 @@ Luis Alejandro, Zárate Gamarra
                   <p>
                     <strong>TB1</strong>
                     <p>
-                      Desarrollo e implementación de los capítulos 2 y 3...
-                    </p>
+                      De acuerdo al objetivo en las etapas de análisis de competidores y desarrollo de estrategias se mantuvo una comunicación efectiva con los diversos usuarios involucrados en las etapas de investigación, análisis y estudio. Asimismo, se presentaron los resultados de forma clara en las secciones de los empathy maps y as-is scenario mapping.
+</p>
                   </p>
                 </li>    
             </ul>
@@ -108,10 +107,35 @@ Luis Alejandro, Zárate Gamarra
           <p>
             <strong>TB1</strong>
               <p>
-                Se analizó una problemática que afecta a dos segmentos
+                Se realizó una investigación que sustente de forma concreta la solución planteada al problema y se analizaron los casos que afecta a dos segmentos (clientes y organizadores de eventos), de forma simultánea se fue desarrollando la solución y apartados del presente proyecto, manteniendo las buenas prácticas de desarrollo, implementación y comunicación.
               </p>
           </p>
         </td>
+    <tr>
+            <td><strong>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</strong></td>
+            <td>
+                <ul style="list-style-type: none;">
+                <li><strong>Luis Alejandro Zárate Gamarra</strong>
+                <p>
+                    <strong>TB1</strong>
+                    <p>De acuerdo al objetivo en las etapas de análisis de competidores y desarrollo de estrategias se mantuvo una presentación de la información óptima con los diversos usuarios involucrados en las etapas de investigación, análisis y estudio. Asimismo, se presentaron los resultados escritos de forma clara en las secciones de los empathy maps y as-is scenario mapping.</p>
+                </p>
+                </li>
+                <li><strong>Luis Mario Gonzales Anaya</strong>
+                    <p>
+                        <strong>TB1</strong>
+                        <p>En el proyecto de ingeniería, comuniqué de manera objetiva y clara ideas y resultados por escrito a audiencias diversas. Esto incluyó la elaboración de documentos como User Personas, una User Task Matrix, informes de entrevistas y Diagramas de Clases y de Base de Datos. Mi habilidad para transmitir información técnica fue crucial para el éxito del proyecto.</p>
+                    </p>
+                </li>
+                </ul>
+        </td>
+        <td>
+            <p>
+            <strong>TB1</strong>
+              <p>Se realizó una investigación que sustente de forma concreta la solución planteada al problema y se analizaron los casos que afecta a dos segmentos (clientes y organizadores de eventos), de forma simultánea se fue desarrollando la solución y apartados del presente proyecto, manteniendo las buenas prácticas de escritura, presentación y entrega </p>
+          </p>
+        </td>
+        </tr>
     </tr>
 </table>
 
@@ -452,23 +476,6 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
     <tr><td>Link de la entrevista: <a href="https://www.youtube.com/watch?v=OLU-1__nHN8">https://www.youtube.com/watch?v=OLU-1__nHN8</a></td></tr>
   </table>
 
-<h3>Segmento ...</h3>
-<h4>Nombre: ...</h4>
-<h4>Edad: ...años</h4>
-<h4>Ubicación: ...</h4>
-<table style="border: 1px solid gray;">
-    <tr>
-        <td><img src="./imagenes/" alt="Descripción de la imagen"></td>
-    </tr>
-    <tr><td class="justificado">En la entrevista Jesús nos cuenta sus dificultades que tiene cada vez que quiere realizar eventos, como conseguir gente que quiera ser promotora
-de sus eventos y las publicaciones que debe realizar para cada uno de ellos para atraer a público, también encontrar al público objetivo 
-aunque en la mayoría son jóvenes. Comenta que para eventos más grandes, prefiere buscar algo más genérico para atraer atención de todo
-público. Se le hace importante tener acceso a la información de participantes de sus eventos, más que todo para saber los porcentajes y 
-datos sobre como va el evento. Comenta que sus eventos siempre se llenan. Sin embargo, no suelen llegar a la hora establecida, y suelen llegar
-en horas tardías, generando miedo e incertidumbre sobre si su evento se llenará o no.</td></tr>
-    <tr><td>Link de la entrevista: <a href="">Link aquí!!</a></td></tr>
-  </table>
-
 <h3>Segmento Cliente</h3>
 <h4>Nombre: Marco Eduardo Colca Chipana</h4>
 <h4>Edad: 23 años</h4>
@@ -684,7 +691,27 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 <img src="./imagenes/As-is Scenario Mapping/As - Is 1.jpg"/>
 
 <h2>2.3 Ubiquitous Language</h2>
+<dl>
+  <dt>Event Organizers</dt>
+    <dd>Individuos o entidades responsables de planificar, promocionar y gestionar eventos, incluida la venta de entradas.</dd>
+  <dt>Ticket Purchase</dt>
+    <dd>El proceso de comprar boletos para eventos a través de una plataforma en línea o puntos de venta físicos.</dd>
+  <dt>Ticket Sale</dt>
+    <dd>El proceso de vender boletos para eventos a través de una plataforma en línea o puntos de venta físicos.</dd>
+  <dt>User Registration</dt>
+    <dd>El proceso mediante el cual los individuos crean cuentas en la plataforma de venta de entradas, proporcionando la información necesaria para comprar boletos.</dd>
+  <dt>Event Discovery</dt>
+    <dd>El proceso de encontrar y explorar varios eventos disponibles para asistir, a menudo facilitado por opciones de búsqueda y filtros.</dd>
 
+  <dt>Secure Transactions</dt>
+    <dd>Transacciones realizadas en la plataforma que están protegidas y encriptadas para garantizar la seguridad de la información financiera de los usuarios.</dd>
+  <dt>Event Promotion</dt>
+    <dd>Actividades realizadas para aumentar la conciencia e interés en eventos específicos, a menudo involucrando campañas de marketing y colaboraciones con organizadores.</dd>
+  <dt>Ticket Authenticity</dt>
+    <dd>Aseguramiento de que las entradas compradas a través de la plataforma son genuinas y válidas para ingresar al evento.</dd>
+  <dt>Event Variety</dt>
+    <dd>La diversidad de eventos disponibles para comprar en la plataforma, que atiende a diferentes interes</dd>
+</dl>
     
 <h1>CAPÍTULO III: REQUIREMENTS SPECIFICATION</h1>
 <h2>3.1 To-Be Scenario Mapping</h2>
