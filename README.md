@@ -87,13 +87,9 @@ Luis Alejandro, Zárate Gamarra
                 <li><strong>Luis Mario Gonzales Anaya</strong></li>
                 <p>
                     <strong>TB1</strong>
-                    <p>Desarrollo e implementación:</p>
-                    <p>User Personas</p>
-                    <p>User Task Matrix</p>
-                    <p>Entrevista del segmento clinte</p>
-                    <p>Diagrama de clases</p>
-                    <p>Diccionario de clases</p>
-                    <p>Diagrama de base de datos</p>
+                    <p>
+                        En el proyecto, me encargué de comunicar de forma clara y objetiva conceptos técnicos a audiencias diversas. Esto implicó presentar User Personas, el User Task Matrix y entrevistar a clientes clave. Además, desarrollé Diagramas de Clases y de Base de Datos, demostrando habilidades de comunicación efectiva en un contexto de ingeniería.
+                    </p>
                 </p>
                 <li><strong>Jeremi Jose Antonio Fretel</strong></li>
                 <li><strong>Luis Alejandro Zárate Gamarra</strong>
