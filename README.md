@@ -51,8 +51,7 @@ Luis Alejandro, Zárate Gamarra
         <td>10 de abril de 2024</td></td>
         <td>
             <ul>
-                <li></li>
-                <li></li>
+                <li>Godofredo Quispe Tipo</li>
                 <li>Luis Mario Gonzales Anaya</li>
                 <li>Jeremi Jose Antonio Fretel</li>
                 <li>Luis Alejandro Zárate Gamarra</li>
@@ -75,8 +74,16 @@ Luis Alejandro, Zárate Gamarra
         diferentes rangos de audiencia</strong></td>
         <td>
             <ul style="list-style-type: none;">
-                <li><strong>1</strong></li>
-                <li><strong>2</strong></li>
+                <li><strong>Godofredo Quispe Tipo</strong></li>
+                <p>
+                    <strong>TB1</strong>
+                    <p>Sprint 1</p>
+                    <p> Development Evidence for Sprint Review</p>
+                    <p> Testing Suite Evidence for Sprint Review</p>
+                    <p> Execution Evidence for Sprint Review</p>
+                    <p>Services Documentation Evidence for Sprint Review</p>
+                    <p></p>
+                </p>
                 <li><strong>Luis Mario Gonzales Anaya</strong></li>
                 <p>
                     <strong>TB1</strong>
@@ -216,13 +223,10 @@ Luis Alejandro, Zárate Gamarra
 
 <div class="centrado">
 
-  <p><strong>Alessandro Joaquin Bernardo Eusebio</strong></p>
-  <img src="./imagenes/fotoBernardo.jpg" width="200" height="200">
+  <p><strong>Godofredo Quispe Tipo</strong></p>
+  <img src="https://github.com/AlejandroZarateGamarra/WS51_AppWeb_Grupo2/assets/112044940/26636055-687e-476a-a4d1-408deb279a07" width="200" height="200">
   <p class="justificado">Soy estudiante de la carrera de Ingeniería de software en la UPC, tengo conocimientos básicos sobre programación
-  en el lenguaje de C++ y Python, conocimiento básico sobre configuración de redes y aplicación de la complejidad 
-  algorítmica. Tengo además conocimientos básicos sobre ciberseguridad y fundamentos de probabilidad y sus aplicaciones
-  . Siempre dispuesto a trabajar en equipo. Me considero una persona paciente y respetuosa que tiene como objetivo 
-  llevar a cabo este proyecto de forma satisfactoria.</p>
+  en el lenguaje de C++ y Python. Me considero una persona responsable y dispuesto a trabajar en equipo para lograr los objetivos propuestos.</p>
 
 
   <p><strong>Jeremi Jose Antonio Fretel</strong></p>
